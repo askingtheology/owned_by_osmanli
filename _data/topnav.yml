@@ -13,17 +13,17 @@ topnav_dropdowns:
     - title: Network
       folderitems:
         - title: Quranicaudio.com
-          external_url: Quranicaudio.com
+          external_url: https://Quranicaudio.com
         - title: Salah.com
-          external_url: Salah.com
+          external_url: https://Salah.com
         - title: Sunnah.com
-          external_url: sunah.com
+          external_url: https://sunah.com
         - title: Corpus.quran.com
-          external_url: Corpus.quran.com
+          external_url: https://Corpus.quran.com
         - title: QuranReflect.com
-          external_url: QuranReflect.com
+          external_url: https://QuranReflect.com
         - title: Tarteel.ai
-          external_url: Tarteel.ai
+          external_url: https://Tarteel.ai
 
  - title: Judging Isnad and Scholars
       folderitems:
