@@ -29,7 +29,7 @@ topnav_dropdowns:
       folderitems:
         - title: The Prophet SAW said... (Comprehensive Hadith Database with interactive Chain)
           external_url: http://qaalarasulallah.com
-          - title: Muslim Scholars Database (Authentic Inter-linked Biographies of Muslim Scholars)
+        - title: Muslim Scholars Database (Authentic Inter-linked Biographies of Muslim Scholars)
           external_url: https://muslimscholars.info
 
 # Copyright 2021 Google LLC
