@@ -4,13 +4,21 @@ keywords: homepage introduction
 tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about working with other aspects of this theme and Jekyll.
 toc: false
 ---
 
-## Build the Theme
+## Welcome!
+<span style="color:red;">"Invite to the way of your Lord with wisdom and good instruction, and argue with them in a way that is best. Indeed, your Lord is most knowing of who has strayed from His way, and He is most knowing of who is [rightly] guided." (Quran 16:125)</span>
 
-Follow these instructions to build the theme.
+<span style="color:red;">"Come now, and let us reason together, saith the Lord..." (Isaiah 1:18)</span>
+
+
+As salamu alaikum brothers and sisters, my name is Osmanli. 
+
+A little over a year ago I remember sitting in class on my laptop and stumbling across a list of contradictions within the bible. My memory is a little foggy, but I think it was a book by Ahmed Deedat (may Allah be pleased with all he has done for the community). I fondly remember turning to my friends who were Christian at the time, and presenting this sort of holy grail I had just found. It was beyond any of us that a holy book like the Bible could contain any sort of error, let alone contradiction, but lo and behold there it was. Two weeks following this, I took my shahada (all thanks and praises to Allah). 
+
+
+
 
 ### 1. Download the theme
 
