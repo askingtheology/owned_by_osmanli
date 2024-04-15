@@ -181,7 +181,7 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Welcome
+    - title: Get started
       url: /index.html
       output: web, pdf
       type: homepage
