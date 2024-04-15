@@ -25,8 +25,8 @@ topnav_dropdowns:
         - title: Tarteel.ai
           external_url: https://Tarteel.ai
 
- - title: Judging Isnad and Scholars
-      folderitems:
+     - title: Judging Isnad and Scholars
+       folderitems:
         - title: The Prophet SAW said... (Comprehensive Hadith Database with interactive Chain)
           external_url: http://qaalarasulallah.com
         - title: Muslim Scholars Database (Authentic Inter-linked Biographies of Muslim Scholars)
