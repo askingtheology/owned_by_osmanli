@@ -19,8 +19,6 @@ A little over a year ago I remember sitting in class on my laptop and stumbling 
 <br>
 <br>
 <br>
-<br>
-<br>
 I created this website to respond to allegations against Islam. I will take an oath now..
 
 <span style="color:blue;">I swear by Allah, the Most Gracious, the Most Merciful. My intentions are to justly, and righteously respond to allegations, accusations, imputations [et cetera], against the noble faith of Islam. I will not lie, nor will I conceal the truth. </span> 
