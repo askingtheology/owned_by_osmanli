@@ -24,13 +24,12 @@ topnav_dropdowns:
           external_url: QuranReflect.com
         - title: Tarteel.ai
           external_url: Tarteel.ai
-    - title: Products
+
+ - title: Judging Isnad and Scholars
       folderitems:
-        - title: Jekyll Documentation Theme
-          url: /mydoc_introduction.html
-        - title: Product 1
-          url: /p1_landing_page.html
-        - title: Product 2
-          url: /p2_landing_page.html
+        - title: The Prophet SAW said... (Comprehensive Hadith Database with interactive Chain)
+          external_url: http://qaalarasulallah.com
+          - title: Muslim Scholars Database (Authentic Inter-linked Biographies of Muslim Scholars)
+          external_url: https://muslimscholars.info
 
 # Copyright 2021 Google LLC
