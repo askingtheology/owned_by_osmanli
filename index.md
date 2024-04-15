@@ -1,6 +1,6 @@
 ---
-title: "Getting started with the Documentation Theme for Jekyll"
-keywords: sample homepage
+title: "Defending the One True Religion of GOD Almighty" 
+keywords: homepage introduction
 tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
