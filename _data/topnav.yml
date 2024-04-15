@@ -10,16 +10,20 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Jekyll Helpd
+    - title: Network
       folderitems:
-        - title: Jekyll Talk
-          external_url: https://talk.jekyllrb.com
-        - title: Jekyll documentation
-          external_url: http://jekyllrb.com/docs/home/
-        - title: Jekyll on Stack Overflow
-          external_url: http://stackoverflow.com/questions/tagged/jekyll
-        - title: Jekyll on my blog
-          external_url: http://idratherbewriting.com/category-jekyll/
+        - title: Quranicaudio.com
+          external_url: Quranicaudio.com
+        - title: Salah.com
+          external_url: Salah.com
+        - title: Sunnah.com
+          external_url: sunah.com
+        - title: Corpus.quran.com
+          external_url: Corpus.quran.com
+        - title: QuranReflect.com
+          external_url: QuranReflect.com
+        - title: Tarteel.ai
+          external_url: Tarteel.ai
     - title: Products
       folderitems:
         - title: Jekyll Documentation Theme
