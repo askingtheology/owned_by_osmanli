@@ -1,4 +1,5 @@
 ---
+title: false
 keywords: homepage introduction
 tags: [getting_started]
 sidebar: mydoc_sidebar
