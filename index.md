@@ -1,7 +1,7 @@
 ---
 title: " "
 keywords: homepage introduction
-tags: [getting_started]
+tags: [introduction]
 sidebar: mydoc_sidebar
 permalink: index.html
 toc: false
