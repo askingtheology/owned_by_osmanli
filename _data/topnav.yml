@@ -5,6 +5,8 @@ topnav:
     items:
       - title: Announcements
         url: /news
+      - title: Extrapage
+        url: /extrapage
 
 # Topnav dropdowns
 topnav_dropdowns:
