@@ -1,6 +1,6 @@
 ---
 title: " "
-keywords: homepage introduction, isdfuhsadfisdufh
+keywords: homepage introduction isdfuhsadfisdufh
 sidebar: mydoc_sidebar
 permalink: index.html
 toc: false
