@@ -1,5 +1,5 @@
 ---
-title: "Defending the One True Religion of GOD Almighty" 
+<center> title: "Defending the One True Religion of GOD Almighty" </center>
 keywords: homepage introduction
 tags: [getting_started]
 sidebar: mydoc_sidebar
