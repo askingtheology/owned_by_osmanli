@@ -14,9 +14,9 @@ h4 { color: #808080; }
     color: white;
 }
 
-.nav > li.active > a { background-color: #72ac4a; }
+.nav > li.active > a { background-color: #009000; }
 
-.nav > li > a:hover { background-color: #72ac4a; }
+.nav > li > a:hover { background-color: #009000; }
 
 div.navbar-collapse .dropdown-menu > li > a:hover {
     background-color: #72ac4a;
