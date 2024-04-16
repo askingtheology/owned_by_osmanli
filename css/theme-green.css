@@ -30,7 +30,7 @@ a.fa.fa-home.fa-lg.navbar-brand:hover { color: #f0f0f0; }
 
 .nav li.thirdlevel > a {
     background-color: #FAFAFA !important;
-    color: #72ac4a;
+    color: #009000;
     font-weight: bold;
 }
 
@@ -41,7 +41,7 @@ a[data-toggle="tooltip"] {
 }
 
 .navbar-inverse {
-    background-color: #72ac4a;
+    background-color: #009000;
     border-color: #5b893c;
 }
 
@@ -57,7 +57,7 @@ a[data-toggle="tooltip"] {
 }
 
 .navbar-inverse .navbar-collapse,
-.navbar-inverse .navbar-form { border-color: #72ac4a !important; }
+.navbar-inverse .navbar-form { border-color: #009000 !important; }
 
 .btn-primary {
     color: #ffffff;
@@ -70,7 +70,7 @@ a[data-toggle="tooltip"] {
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
-    background-color: #72ac4a;
+    background-color: #009000;
     border-color: #5b893c;
 }
 
