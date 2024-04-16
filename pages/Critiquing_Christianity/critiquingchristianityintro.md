@@ -1,5 +1,5 @@
 ---
-title: Critiquing Christianity
+title: " "
 sidebar: Critiquing_Christianity_sidebar
 keywords: #PUTKEYWORDSHERE
 permalink: critiquingchristianity.html
@@ -11,4 +11,12 @@ folder: Critiquing Christianity
 <br>
 <br>
 <br>
-Testing!
+## Testing!
+<br>
+<br>
+<br>
+### Testing!
+<br>
+<br>
+<br>
+Testing@
