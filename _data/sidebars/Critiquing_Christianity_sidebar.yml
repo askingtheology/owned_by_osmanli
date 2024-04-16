@@ -12,7 +12,7 @@ entries:
       url: /index.html
       output: web
     - title: Introduction
-      url: /critiquingchristianityintro.html
+      url: /critiquingchristianityintro.md
       output: web
 
 # Copyright 2021 Google LLC
