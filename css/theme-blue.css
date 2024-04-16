@@ -1,5 +1,5 @@
 .summary {
-    color: #009000;
+    color: #808080;
     border-left: 5px solid #ED1951;
     font-size:16px;
 }
@@ -68,8 +68,8 @@ a.navbar-brand:hover {
 
 .btn-primary {
     color: #ffffff;
-    background-color: #347DBE;
-    border-color: #347DBE;
+    background-color: #009000;
+    border-color: ##075900;
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
