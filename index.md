@@ -8,7 +8,7 @@ toc: false
 
 # <center> Defending the One True Religion of GOD Almighty </center>
 <br>
-<center> <img src="https://i.ibb.co/ZTCZ4b4/askingtheologylogo550550.png"> </center>
+<center> <img src="https://i.ibb.co/nkkXV67/askingtheologylogo350350.png"> </center>
 <br>
 <center> <span style="color:red;">"Invite to the way of your Lord with wisdom and good instruction, and argue with them in a way that is best. Indeed, your Lord is most knowing of who has strayed from His way, and He is most knowing of who is [rightly] guided." (Quran 16:125)</span> </center>
 <br>
