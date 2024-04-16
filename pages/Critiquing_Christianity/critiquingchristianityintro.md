@@ -2,7 +2,7 @@
 title: Critiquing Christianity
 sidebar: Critiquing_Christianity_sidebar
 keywords: #PUTKEYWORDSHERE
-permalink: critiquingchristianity.html
+permalink: critiquingchristianity.md
 toc: false
 folder: Critiquing Christianity
 ---
