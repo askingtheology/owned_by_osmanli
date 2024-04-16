@@ -1,6 +1,6 @@
 ---
 title: " "
-keywords: homepage introduction firstpage
+keywords: homepage introduction 
 sidebar: mydoc_sidebar
 permalink: index.html
 toc: false
@@ -22,6 +22,7 @@ A little over a year ago I remember sitting in class on my laptop and stumbling 
 <br>
 <br>
 After witnessing the ill faith and blatant lies of both the Answering Islam, and Answering Christianity teams, I decided on creating this website (a) in opposition to poor academic practices, and (b) to honourably respond to allegations against Islam. I will now take an oath:
+<br>
 <br>
 <span style="color:blue;">I swear by Allah, the Most Gracious, the Most Merciful. My intentions are to justly, and righteously respond to allegations, accusations, imputations [et cetera], against the noble faith of Islam. I will not lie, nor will I conceal the truth. </span>  And Allah is my witness.
 
