@@ -4,7 +4,7 @@ sidebar: Critiquing_Christianity_sidebar
 keywords: #PUTKEYWORDSHERE
 permalink: critiquingchristianity.html
 toc: false
-folder: Critiquing Christianity
+folder: Critiquing_Christianity
 ---
 
 # <center> This will be the Critiquing Christianity First Page! </center>
