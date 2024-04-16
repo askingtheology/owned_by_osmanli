@@ -5,8 +5,8 @@ topnav:
     items:
       - title: Announcements
         url: /news
-      - title: Extrapage
-        url: /extrapage
+      - title: Critiquing Christianity
+        url: /critiquingchristianity.html
 
 # Topnav dropdowns
 topnav_dropdowns:
