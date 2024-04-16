@@ -1,10 +1,10 @@
 ---
-title: Extrapage
-sidebar: home_sidebar
-keywords: keywordshere
-permalink: extrapage.html
+title: Critiquing Christianity
+sidebar: home_sidebar #PUTSIDEBARHERE
+keywords: #PUTKEYWORDSHERE
+permalink: critiquingchristianity.html
 toc: false
-folder: extrapage
+folder: Critiquing Christianity
 ---
 <div class="home">
 
@@ -22,8 +22,5 @@ folder: extrapage
         <p>{% if page.summary %} {{ page.summary | strip_html | strip_newlines | truncate: 160 }} {% else %} {{ post.content | truncatewords: 50 | strip_html }} {% endif %}</p>
 
         {% endfor %}
-
-        <p><a href="feed.xml" class="btn btn-primary navbar-btn cursorNorm" role="button">RSS Subscribe{{tag}}</a></p>
-
     </div>
 </div>
