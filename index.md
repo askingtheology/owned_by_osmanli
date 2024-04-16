@@ -1,5 +1,4 @@
 ---
-title: "Defending the One True Religion of GOD Almighty"
 keywords: homepage introduction
 tags: [getting_started]
 sidebar: mydoc_sidebar
@@ -7,7 +6,8 @@ permalink: index.html
 toc: false
 ---
 # <center> Defending the One True Religion of GOD Almighty </center>
-## Welcome!
+<br>
+<br>
 <center> <span style="color:red;">"Invite to the way of your Lord with wisdom and good instruction, and argue with them in a way that is best. Indeed, your Lord is most knowing of who has strayed from His way, and He is most knowing of who is [rightly] guided." (Quran 16:125)</span> </center>
 
 <center> <span style="color:red;">"Come now, and let us reason together, saith the Lord..." (Isaiah 1:18)</span> </center>
