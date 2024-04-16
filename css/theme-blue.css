@@ -68,8 +68,8 @@ a.navbar-brand:hover {
 
 .btn-primary {
     color: #ffffff;
-    background-color: #009000;
-    border-color: ##075900;
+    background-color: #347DBE;
+    border-color: #347DBE;
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
