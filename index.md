@@ -31,9 +31,9 @@ After witnessing the ill faith and blatant lies of both the Answering Islam, and
 It is my intention to clarify the truth, guide the creation, and offer mercy and goodness to the disbelievers. I will be harsh in condemning innovation and disobedience, and it is my duty to clarify what is in them of corruption and to warn the servants of Allah. This is my act of mercy and goodness, and not revenge nor vengeance.
 <br>
 <br>
-> <span style="color:red;font-size: 16px">معي ثلاث خصال بها أظهر على خصمي أفرح إذا أصاب خصمي وَأحزن له إذا أخطأ وَأحفظ نفسي لا تتجاهل عَلَيْهِ</span>
+> <span style="color:red;font-size: 14px">معي ثلاث خصال بها أظهر على خصمي أفرح إذا أصاب خصمي وَأحزن له إذا أخطأ وَأحفظ نفسي لا تتجاهل عَلَيْهِ</span>
 <br><br>
-> <span style="color:red;font-size: 16px">I have three traits that give me an advantage over my adversary. I rejoice when he is correct, I am saddened when he is wrong, and I guard myself from insulting him.</span>
+> <span style="color:red;font-size: 14px">I have three traits that give me an advantage over my adversary. I rejoice when he is correct, I am saddened when he is wrong, and I guard myself from insulting him.</span>
 
 **Source:**[Tārīkh Baghdād 9/149](https://www.abuaminaelias.com/dailyhadithonline/2012/07/12/good-will-enemies/)
 <br>
