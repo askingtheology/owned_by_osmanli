@@ -27,4 +27,4 @@ After witnessing the ill faith and blatant lies of both the Answering Islam, and
 <br>
 <span style="color:blue;">I swear by Allah, the Most Gracious, the Most Merciful. My intentions are to justly, and righteously respond to allegations, accusations, imputations [et cetera], against the noble faith of Islam. I will not lie, nor will I conceal the truth. </span>  And Allah is my witness.
 
-{% include links.html %}
+
