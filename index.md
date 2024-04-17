@@ -26,7 +26,9 @@ A little over a year ago I remember sitting in class on my laptop and stumbling 
 After witnessing the ill faith and blatant lies of both the Answering Islam, and Answering Christianity teams, I decided on creating this website (a) in opposition to poor academic practices, and (b) to honourably respond to allegations against Islam. I will now take an oath:
 <br>
 <br>
-<span style="color:blue;">I swear by Allah, the Most Gracious, the Most Merciful. My intentions are to justly, and righteously respond to allegations, accusations, imputations [et cetera], against the noble faith of Islam. I will not lie, nor will I conceal the truth. </span>  And Allah is my witness. It is my intention to clarify the truth, guide the creation, and offer mercy and goodness to the disbelievers. I will be harsh in condemning innovation and disobedience, and it is my duty to clarify what is in them of corruption and to warn the servants of Allah. This is my act of mercy and goodness, and not revenge nor vengeance.
+<span style="color:blue;">I swear by Allah, the Most Gracious, the Most Merciful. My intentions are to justly, and righteously respond to allegations, accusations, imputations [et cetera], against the noble faith of Islam. I will not lie, nor will I conceal the truth. </span>  And Allah is my witness. 
+<br><br>
+It is my intention to clarify the truth, guide the creation, and offer mercy and goodness to the disbelievers. I will be harsh in condemning innovation and disobedience, and it is my duty to clarify what is in them of corruption and to warn the servants of Allah. This is my act of mercy and goodness, and not revenge nor vengeance.
 <br>
 <br>
 > <span style="color:red;">معي ثلاث خصال بها أظهر على خصمي أفرح إذا أصاب خصمي وَأحزن له إذا أخطأ وَأحفظ نفسي لا تتجاهل عَلَيْهِ</span>
