@@ -5,10 +5,6 @@ sidebar: mydoc_sidebar
 permalink: index.html
 toc: false
 ---
-<!DOCTYPE html>
-
-  <title>Your New Tab Title Here</title>
-
 
 
 # <center> Defending the One True Religion of GOD Almighty </center>
