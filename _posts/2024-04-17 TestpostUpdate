@@ -1,0 +1,10 @@
+---
+title:  "Test post for this Year.
+categories: Answering Christianity update
+permalink: TestpostUpdate.html
+tags: [news]
+---
+
+This is just a test post for this year. Inshallah it works, and I will be putting updates here. 
+
+{% include links.html %}
