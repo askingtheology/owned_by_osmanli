@@ -16,7 +16,7 @@ When defending Islam - whether in debate or humbly in conversation - there are i
 
 <br> <br>
 (b) Treat the disbelievers the same way we would like to be treated. 
-<br> <br>
+<br>
 > <span style="color:red;font-size: 15px">‏مَن أراد الإنصاف فليتوهم نفسه مكان خصمه فإنه يلوح له وجه تعسفه</span>
 <br><br>
 > <span style="color:red;font-size: 15px">Whoever intends justice, then let him imagine himself in the place of his adversary, for he will be shown the manner of his own abuse.</span>
@@ -25,8 +25,8 @@ When defending Islam - whether in debate or humbly in conversation - there are i
 
 <br> <br>
 
-(c) Hate for the sake of Allah. (d) Carry good manners and sustain good qualities.
-<br> <br>
+(c) Hate for the sake of Allah. 
+<br>
 > <span style="color:red;font-size: 15px">وَأَبْغَضَ لِلَّهِ لَا لِإِيذَاءِ مَنْ أَبْغَضَهُ لَهُ بَلْ لِكُفْرِهِ وَعِصْيَانِهِ</span>
 <br><br>
 > <span style="color:red;font-size: 15px">That he hates for the sake of Allah does not mean he harms the one he hates. Rather, the hatred is for his unbelief and disobedience.</span>
@@ -36,7 +36,7 @@ When defending Islam - whether in debate or humbly in conversation - there are i
 <br> <br>
 
 (d) Carry good manners and sustain good qualities.
-<br> <br>
+<br>
 > <span style="color:red;font-size: 15px">فلا بد من هذه الثلاثة العلم والرفق والصبر العلم قبل الأمر والنهي والرفق معه والصبر بعده … لا يأمر بالمعروف وينهى عن المنكر إلا من كان فقيها فيما يأمر به فقيها فيما ينهى عنه رفيقا فيما يأمر به رفيقا فيما ينهى عنه حليما فيما يأمر به حليما فيما ينهى عنه</span>
 <br><br>
 > <span style="color:red;font-size: 15px">Thus, there are three necessary qualities: knowledge, gentleness, and patience. Knowledge is before commanding and prohibiting, gentleness is during it, and patience is after it… There is no commanding good or forbidding evil unless he understands what he commands and prohibits, he is gentle in what he commands and prohibits, and he is forbearing in what he commands and prohibits.</span>
