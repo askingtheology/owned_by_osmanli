@@ -1,0 +1,9 @@
+---
+title: Debating
+sidebar: mydoc_sidebar
+permalink: mydoc_debating.html
+folder: mydoc
+---
+
+
+{% include links.html %}
