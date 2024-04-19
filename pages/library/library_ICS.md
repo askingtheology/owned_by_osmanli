@@ -7,16 +7,4 @@ toc: false
 folder: library
 ---
 
-# <center> This will be Christianity First Page! </center>
-<br>
-<br>
-<br>
-## Testing!
-<br>
-<br>
-<br>
-### Testing!
-<br>
-<br>
-<br>
-Testing@
+<iframe src="https://dn790002.ca.archive.org/0/items/BeliefInAllahInTheLightOfTheQurAnAndSunnah/Belief-in-Allah-In-the-Light-of-the-Qur-an-and-Sunnah.pdf" style="width:600px; height:500px;" frameborder="0"></iframe>
