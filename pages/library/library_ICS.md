@@ -7,4 +7,4 @@ toc: false
 folder: library
 ---
 
-<iframe src="https://dn790002.ca.archive.org/0/items/BeliefInAllahInTheLightOfTheQurAnAndSunnah/Belief-in-Allah-In-the-Light-of-the-Qur-an-and-Sunnah.pdf" style="width:600px; height:500px;" frameborder="0"></iframe>
+<embed src="https://dn790002.ca.archive.org/0/items/BeliefInAllahInTheLightOfTheQurAnAndSunnah/Belief-in-Allah-In-the-Light-of-the-Qur-an-and-Sunnah.pdf" type="application/pdf" width="100%" height="600px" />
