@@ -7,6 +7,9 @@ topnav:
         url: /news
       - title: Critiquing Christianity
         url: /Critiquing_Christianity_introduction.html
+      - title: Library
+        url: /Critiquing_Christianity_introduction.html
+
 
 # Topnav dropdowns
 topnav_dropdowns:
