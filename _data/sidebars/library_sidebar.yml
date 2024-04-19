@@ -11,6 +11,6 @@ entries:
     - title: ⬅ back to homepage
       url: /index.html
       output: web
-    - title: TITLEHERE
-      url: /URL.HTML
+    - title: Islamic Creed Series
+      url: /mydoc__ICS.html
       output: web
