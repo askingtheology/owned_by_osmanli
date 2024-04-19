@@ -7,7 +7,7 @@ toc: false
 folder: library
 ---
 
-# <center> This will be the Critiquing Christianity First Page! </center>
+# <center> This will be Christianity First Page! </center>
 <br>
 <br>
 <br>
