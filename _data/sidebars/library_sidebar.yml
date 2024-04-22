@@ -28,21 +28,6 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Debating
-      url: /mydoc_debating.html
-      output: web, pdf
-
-    - title: Supported features
-      url: /mydoc_supported_features.html
-      output: web, pdf
-
-    - title: About the theme author
-      url: /mydoc_about.html
-      output: web, pdf
-
-    - title: Support
-      url: /mydoc_support.html
-      output: web, pdf
 
 
 # Copyright 2021 Google LLC
