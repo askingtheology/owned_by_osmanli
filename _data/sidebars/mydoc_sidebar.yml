@@ -32,14 +32,10 @@ entries:
       url: /mydoc_debating.html
       output: web, pdf
 
-- title: General Refutations
+  - title: General Refutations
     output: web, pdf
     folderitems:
 
     - title: [GR] Preface
       url: /mydoc_grpreface.html
       output: web, pdf
-      type: homepage
-    
-
-# Copyright 2021 Google LLC
