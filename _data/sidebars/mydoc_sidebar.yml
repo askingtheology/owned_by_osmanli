@@ -31,25 +31,14 @@ entries:
     - title: Debating
       url: /mydoc_debating.html
       output: web, pdf
+      
 
-    - title: Supported features
-      url: /mydoc_supported_features.html
-      output: web, pdf
-
-    - title: About the theme author
-      url: /mydoc_about.html
-      output: web, pdf
-
-    - title: Support
-      url: /mydoc_support.html
-      output: web, pdf
-
-  - title: Release Notes
+  - title: General Refutations
     output: web, pdf
     folderitems:
 
-    - title: 6.0 Release notes
-      url: /mydoc_release_notes_60.html
+    - title: Preface
+      url: /mydoc_grpreface.md
       output: web, pdf
 
     - title: 5.0 Release notes
