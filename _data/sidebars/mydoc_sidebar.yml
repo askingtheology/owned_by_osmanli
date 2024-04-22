@@ -1,5 +1,3 @@
-# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
-
 entries:
 - title: sidebar
   product: Asking Theology
@@ -33,12 +31,9 @@ entries:
       output: web, pdf
 
 - title: General Refutations
+  output: web, pdf
+  folderitems:
+
+  - title: [GR] Preface
+    url: /mydoc_grpreface.html
     output: web, pdf
-    folderitems:
-
-    - title: [GR] Preface
-      url: /mydoc_grpreface.html
-      output: web, pdf
-    
-
-# Copyright 2021 Google LLC
