@@ -3,6 +3,7 @@ title: General Refutations
 sidebar: mydoc_sidebar
 permalink: mydoc_grpreface.html
 folder: mydoc
+toc: false
 ---
 
 ## Preface
