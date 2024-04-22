@@ -40,12 +40,16 @@ entries:
     - title: Preface
       url: /mydoc_grpreface.html
       output: web, pdf
+      
+    - title: Islamic Dilemma
+      url: /mydoc_grislamicdilemma.html
+      output: web, pdf
 
-  - title: Installation
+  - title: Quran
     output: web, pdf
     folderitems:
 
-    - title: About Ruby, Gems, Bundler, etc.
+    - title: Quran 4:57
       url: /mydoc_about_ruby_gems_etc.html
       output: web, pdf
 
