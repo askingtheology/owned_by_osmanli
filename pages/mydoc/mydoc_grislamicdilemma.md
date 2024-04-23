@@ -15,9 +15,15 @@ What is the Islamic Dilemma? Well, I will let the [Gospel-Centered-Discipleship]
 **From the Gospel-Centered-Discipleship website:**
 <br>
 <font color="blue"> "From this verse we can see that Muslims are taught that their god and the God of the “people of the scripture” (Jews and Christians) are one and the same. However, as I’ve shown in my previous article, Muslims do not believe in the same God that Christians worship. Islam denies the very nature of God as a Trinity. The Quran more specifically denies the deity of Jesus in Surah 5:116."</font>
+<br><br>
+**Question:** Does Quran 29:46 teach that Allah and the god of the "people of the scripture" (Jews and Christians) are one and the same?
 <br>
-
-                                                                                                                                                                                                                                                                                                                                                                                                                         >
+**Response:** No. Devin Nicely (the author of this post) has made a mistake in reading the verse. It clearly says <font color="red">...**except for those who commit injustice among them**, and say, "We believe in that which has been revealed to us and revealed to you. And our God and your God is one...</font>. Muslims should only argue with those who don't commit injustice. The Quran identifies such people as those who [knowingly] group Allah with other gods of Abrahamic faith as one God. 
+<br> <br>
+<font color="blue"> "Our focus will instead be directed at the part of this verse which says, “We believe in what was revealed to us,​ **and in what was revealed to you.**”​ Muslims are told to believe in what was revealed to Jews and Christians. What was that exactly? Let’s look at our next verse to find out."</font>
+<br>
+Question
+                                                                                                                                                  
 
 
 
