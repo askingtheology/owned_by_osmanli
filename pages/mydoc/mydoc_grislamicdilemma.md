@@ -15,9 +15,8 @@ What is the Islamic Dilemma? Well, I will let the [Gospel-Centered-Discipleship]
 **From the Gospel-Centered-Discipleship website:**
 <br>
 <font color="blue"> "From this verse we can see that Muslims are taught that their god and the God of the “people of the scripture” (Jews and Christians) are one and the same. However, as I’ve shown in my previous article, Muslims do not believe in the same God that Christians worship. Islam denies the very nature of God as a Trinity. The Quran more specifically denies the deity of Jesus in Surah 5:116."</font>
-
 <br><br>
-
+This first statement has been responded to bellow. I used a box because some people are not interested in the context behind the accusation, but rather the main point and the proper response. 
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
