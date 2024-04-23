@@ -41,9 +41,9 @@ Question
       /* Whatever that is inside this <style> tag is all styling for your markup / content structure.
       /* The . with the boxed represents that it is a class */
       .boxed {
-        background: #dcfcdc;
+        background: #dff7df;
         color: black;
-        border: 3px solid #535353;
+        border: 3px solid #000000;
         margin: 0px auto;
         width: 570px;
         padding: 10px;
