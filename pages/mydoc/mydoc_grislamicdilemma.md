@@ -43,7 +43,7 @@ Question
       .boxed {
         background: #baf7ba;
         color: black;
-        border: 3px solid #535353;
+        border: 3px solid #dcfcdc;
         margin: 0px auto;
         width: 535px;
         padding: 10px;
