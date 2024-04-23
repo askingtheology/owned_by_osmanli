@@ -10,13 +10,13 @@ What is the Islamic Dilemma? Well, I will let the [Gospel-Centered-Discipleship]
 <br><br>
 <font color="blue">"The crux of the argument is this: The Qur’an affirms the inspiration, authority, and preservation of the New Testament Gospels; yet the Qur’an also contradicts the Gospels on major theological and historical points." Therefore, the Qur’an cannot be reliable.</font> 
 ## Quran 29:46
-<font color="red">And do not argue with the People of the Scripture except in a way that is best, except for those who commit injustice among them, and say, "We believe in that which has been revealed to us and revealed to you. And our God and your God is one; and we are Muslims [in submission] to Him."</font> 
+<font color="red">And do not argue with the People of the Scripture except in a way that is best, except for those who commit injustice among them, and say, "We believe in that which has been revealed to us and revealed to you. And our God and your God is one; and we are Muslims [in submission] to Him."(Quran 29:46)</font> 
 ### Allah and the Trinity are One God?
 **From the Gospel-Centered-Discipleship website:**
 <br>
 <font color="blue"> "From this verse we can see that Muslims are taught that their god and the God of the “people of the scripture” (Jews and Christians) are one and the same. However, as I’ve shown in my previous article, Muslims do not believe in the same God that Christians worship. Islam denies the very nature of God as a Trinity. The Quran more specifically denies the deity of Jesus in Surah 5:116."</font>
 <br><br>
-This first statement has been responded to bellow. I used a box because some people are not interested in the context behind the accusation, but rather the main point and the proper response. 
+This first statement has been responded to below. I used a box because some people are not interested in the context behind the accusation, but rather the main point and the proper response. 
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -42,11 +42,17 @@ This first statement has been responded to bellow. I used a box because some peo
     <div class="boxed">
 <strong>Question:</strong> Does Quran 29:46 teach that Allah and the god of the "people of the scripture" (Jews and Christians) are one and the same?
 <br> <br>
-<strong>Response:</strong> No. Devin Nicely (the author of this post) has made a mistake in reading the verse. It clearly says <font color="red">...EXCEPT FOR THOSE WHO COMMIT INJUSTICE AMONG THEM, and say, "We believe in that which has been revealed to us and revealed to you. And our God and your God is one...</font> Muslims should only argue with those who don't commit injustice. The Quran identifies such people as those who [knowingly] group Allah with other gods of Abrahamic faith as one God.
+<strong>Response:</strong> No, this verse has two main purposes: (a) It emphasizes the oneness of Allah and makes it clear that there is no other God besides Him. It does not group Allah with any other deity or being. (b) It invites the people of the book to turn towards Allah and away from their incorrect beliefs.<br> <br>
+      
+The first proof of (a) is in Quran 2:163 where Allah says: <br>
+<font color="red">And your god is one God. There is no deity except Him, the Entirely Merciful, the Especially Merciful.(Quran 2:163)</font>. Allah is One and there is no other deity besides him, nor any deity comparable to him. <br> <br>
+The second proof of (a) is in the original verse Quran 29:46 where Allah tells us to say: 'Our God and your God <font color="red">is one'</font>, and not "are one". The verse does not group Allah with any other deity or being.      
+<br> <br>
+The proof of (b) is in the original verse Quran 29:46. Yes, our God and your God is one, however <font color="red">we are Muslims [in submission] to Him</font>. The verse does not mention the Christians or Jews as being Muslims in submission. And to enforce this interpretation it says at the beginning of the verse: <font color="red">...and say, "WE believe in...</font>. It is clear Allah is using "we" to refer to followers of Islam. And when the verse finishes, it says <font color="red">WE are Muslims [in submission] to Him</font>, meaning the followers of Islam (we) are Muslims, and not the followers of Judaism or Christianity.
     </div>
   </body>
 </html>
-
+### Allah and the Trinity are One God?
 
 
 
