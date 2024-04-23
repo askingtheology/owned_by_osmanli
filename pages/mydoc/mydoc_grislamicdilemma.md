@@ -6,7 +6,6 @@ folder: mydoc
 toc: true
 ---
 ## Establishment 
-<br><br>
 What is the Islamic Dilemma? Well, I will let the [Gospel-Centered-Discipleship](https://gcdiscipleship.com/article-feed/the-islamic-dilemma-a-game-changer-for-conversations-with-muslims) website explain.
 <br><br>
 <font color="blue">"The crux of the argument is this: The Qur’an affirms the inspiration, authority, and preservation of the New Testament Gospels; yet the Qur’an also contradicts the Gospels on major theological and historical points." Therefore, the Qur’an cannot be reliable.</font> 
