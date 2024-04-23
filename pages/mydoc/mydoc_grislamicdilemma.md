@@ -41,9 +41,9 @@ What is the Islamic Dilemma? Well, I will let the [Gospel-Centered-Discipleship]
   <body>
     <!-- This is the markup of your box, in simpler terms the content structure. -->
     <div class="boxed">
-**Question:** Does Quran 29:46 teach that Allah and the god of the "people of the scripture" (Jews and Christians) are one and the same?
+<strong>Question:</strong>Does Quran 29:46 teach that Allah and the god of the "people of the scripture" (Jews and Christians) are one and the same?
 <br> <br>
-**Response:** No. Devin Nicely (the author of this post) has made a mistake in reading the verse. It clearly says <font color="red">...EXCEPT FOR THOSE WHO COMMIT INJUSTICE AMONG THEM, and say, "We believe in that which has been revealed to us and revealed to you. And our God and your God is one...</font>. Muslims should only argue with those who don't commit injustice. The Quran identifies such people as those who [knowingly] group Allah with other gods of Abrahamic faith as one God.
+<strong>Response:</strong> No. Devin Nicely (the author of this post) has made a mistake in reading the verse. It clearly says <font color="red">...EXCEPT FOR THOSE WHO COMMIT INJUSTICE AMONG THEM, and say, "We believe in that which has been revealed to us and revealed to you. And our God and your God is one...</font> Muslims should only argue with those who don't commit injustice. The Quran identifies such people as those who [knowingly] group Allah with other gods of Abrahamic faith as one God.
     </div>
   </body>
 </html>
