@@ -43,11 +43,12 @@ Question
       .boxed {
         background: #dcfcdc;
         color: black;
-        border: 3px solid #627062;
+        border: 3px solid #535353;
         margin: 0px auto;
         width: 570px;
         padding: 10px;
         border-radius: 10px;
+        shadow-depth:
       }
     </style>
   </head>
