@@ -45,9 +45,20 @@ entries:
     output: web, pdf
     folderitems:
 
+        subfolders:
+      - title: Tag archive pages
+        output: web
+        subfolderitems:
+
+        - title: Formatting pages
+          url: /tag_formatting.html
+          output: web
+
+
     - title: Quran 4:57
       url: /mydoc_about_ruby_gems_etc.html
       output: web, pdf
+      
 
   - title: Authoring
     output: web, pdf
